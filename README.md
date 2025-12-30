@@ -98,7 +98,22 @@ Responses are in JSON format. Example error messages are provided for invalid pa
 - protobuf
 
 Refer to `requirements.txt` for additional dependencies.
-
+1. **IND** → ভারত সার্ভার  
+2. **BR** → ব্রাজিল সার্ভার  
+3. **SG** → সিঙ্গাপুর সার্ভার  
+4. **RU** → রাশিয়া সার্ভার  
+5. **ID** → ইন্দোনেশিয়া সার্ভার  
+6. **TW** → তাইওয়ান সার্ভার  
+7. **US** → মার্কিন যুক্তরাষ্ট্র সার্ভার  
+8. **VN** → ভিয়েতনাম সার্ভার  
+9. **TH** → থাইল্যান্ড সার্ভার  
+10. **ME** → মধ্যপ্রাচ্য সার্ভার  
+11. **PK** → পাকিস্তান সার্ভার  
+12. **CIS** → রাশিয়া ও পার্শ্ববর্তী দেশ সার্ভার  
+13. **BD** → বাংলাদেশ সার্ভার  
+14. **NA** → উত্তর আমেরিকা সার্ভার  
+15. **SAC** → দক্ষিণ আমেরিকা/ল্যাটিন আমেরিকা সার্ভার  
+16. **EU** → ইউরোপ সার্ভার
 ## Deployment
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F0xMe%2FFreeFire-Api)
